@@ -4,13 +4,11 @@
 				font-family: "Courier New", Courier, monospace;
 				letter-spacing: 0.15em;	
 				background-color: #efefef;}
-			#page {
-				max-width: 940px;
-				min-width: 720px;
-				margin: 10px auto 10px auto;
-				padding: 20px;
-				border: 4px double #000;
-				background-color: #ffffff;}
+
+body {
+ background-image:url("https://external-preview.redd.it/UZm9ESZxadWFXa16w6TyEORF4wzulanKnSGGH-8SlDM.jpg?auto=webp&s=e28a3fbd1a0bdf2a7b8c19c05b801c0b4e34ef8d");
+}
+			
 			
 .photo{
        text-align:center;
