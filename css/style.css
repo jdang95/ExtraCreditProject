@@ -1,9 +1,14 @@
 
+			
 			body {
 				font-size: 80%;
 				font-family: "Courier New", Courier, monospace;
 				letter-spacing: 0.15em;	
 				background-color: #efefef;}
+
+body {
+ background-image:url("https://external-preview.redd.it/UZm9ESZxadWFXa16w6TyEORF4wzulanKnSGGH-8SlDM.jpg?auto=webp&s=e28a3fbd1a0bdf2a7b8c19c05b801c0b4e34ef8d");
+}
 			
 			
 .photo{
@@ -13,6 +18,11 @@
 .clear {
 clear:both;
 }
+
+	iframe{
+		text-align:center;
+}
+		
 			ul {
 				width: 570px;
 				padding: 15px;
@@ -42,15 +52,8 @@ clear:both;
       }
 
 p { 
-   font-family: 'RedkostComicRegular'; 
+   font-family: 'SchilderGroteskMedium'; 
    font-weight: normal; 
    font-style: normal; 
-}
- 
-  #container {
- margin-top:20%;
- margin-left:10%;
- margin-right:10%;
- margin-bottom:5%;
-}
 
+}
