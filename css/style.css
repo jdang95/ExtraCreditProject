@@ -17,6 +17,11 @@ body {
 .clear {
 clear:both;
 }
+
+	iframe{
+		text-align:center;
+}
+		
 			ul {
 				width: 570px;
 				padding: 15px;
