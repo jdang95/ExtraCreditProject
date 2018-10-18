@@ -8,6 +8,7 @@
 
 body {
  background-image:url("https://external-preview.redd.it/UZm9ESZxadWFXa16w6TyEORF4wzulanKnSGGH-8SlDM.jpg?auto=webp&s=e28a3fbd1a0bdf2a7b8c19c05b801c0b4e34ef8d");
+	background-size:contain;
 	text-align:center;
 }
 			
